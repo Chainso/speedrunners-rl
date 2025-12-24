@@ -1,9 +1,12 @@
 [submodule "sr-ai"]
 	path = sr-ai
 	url = https://github.com/Chainso/sr-ai
+	branch = main
 [submodule "sr-gym"]
 	path = sr-gym
 	url = https://github.com/Chainso/sr-gym
+	branch = main
 [submodule "sr-lib"]
 	path = sr-lib
 	url = git@github.com:Chainso/sr-lib.git
+	branch = main

@@ -22,7 +22,7 @@ The project is divided into three main components, included here as submodules:
 
 ## Installation
 
-### 1. clone the repository
+### 1. Clone the repository
 
 Clone this repository and initialize the submodules:
 
